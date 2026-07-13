@@ -1,2 +1,1 @@
-# test-repo
-this is test repo
+this is my local repo
