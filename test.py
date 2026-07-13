@@ -1,2 +1,2 @@
 print("hello world")
-print("Enter numbers")
+print("this is preeti")
